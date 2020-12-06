@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourLibrary.DB", "YourLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourLibrary.Infrastructure", "YourLibrary.Infrastructure\YourLibrary.Infrastructure.csproj", "{039B598B-BCE6-428D-8D93-60BA11384FBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourLibrary.Backoffice", "YourLibrary.Backoffice\YourLibrary.Backoffice.csproj", "{8670281D-3128-42F6-90A1-CA904B63D820}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{039B598B-BCE6-428D-8D93-60BA11384FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{039B598B-BCE6-428D-8D93-60BA11384FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{039B598B-BCE6-428D-8D93-60BA11384FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8670281D-3128-42F6-90A1-CA904B63D820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8670281D-3128-42F6-90A1-CA904B63D820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8670281D-3128-42F6-90A1-CA904B63D820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8670281D-3128-42F6-90A1-CA904B63D820}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
